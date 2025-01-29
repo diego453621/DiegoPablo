@@ -12,7 +12,7 @@ public class Test1 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Hago que se mueva en cada frame
+        // Hago que se mueva en cada frame HOLA
         transform.position += Vector3.right * Time.deltaTime;
     }
 }
